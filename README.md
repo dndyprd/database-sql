@@ -1,2 +1,2 @@
-# database-sql
-SQL Practice: All About Database
+# SQL Practice: All About Database
+This repository contains for MySQL practice code
